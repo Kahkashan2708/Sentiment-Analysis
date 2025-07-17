@@ -1,2 +1,2 @@
-# Sentiment-Analysis with NLTK and transformer
+# Sentiment-Analysis with NLTK
 
